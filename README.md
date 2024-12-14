@@ -1,11 +1,4 @@
-<style>
-   .round {
-    border-radius: 100px; /* Радиус скругления */
-    border: 3px solid green; /* Параметры рамки */
-    box-shadow: 0 0 7px #666; /* Параметры тени */
-   }
-  </style>
-<img class="round" src="assets/img/minkovich_a.jpg" width="150" height="150" alt="image" align="left" >
+<img class="round" src="assets/img/minkovich_a.jpg" width="150" height="150" alt="image" align="left">
 <br>
 <h1 align="left">Привет, меня зовут Александр<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="40"/>
 <br>
@@ -25,9 +18,7 @@
 </ul>
 <hr> 
 <h2 align="left">О себе</h2>
-<p>
-  
-Я дипломированный специалист в области Python программирования, имею базовое техническое (инженерное) образование. 
+<p>Я дипломированный специалист в области Python программирования, имею базовое техническое (инженерное) образование. 
 Мои личные качества такие, как :
 <ul>
   <li>аналитический склад ума и системный подход обеспечивают высокое качество кода.</li>
@@ -51,7 +42,6 @@
          </h5> 
     <a class="resume-link" href="https://github.com/alexwlad3885/lesson_module_3/blob/main/lesson_3_4.py">
                            https://github.com/alexwlad3885/lesson_module_3/blob/main/lesson_3_4.py</a>
-    
 </div>
 <hr>
 <div>

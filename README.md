@@ -139,3 +139,18 @@
       <a class="resume-link" href="https://github.com/alexwlad3885/lesson_module_17/tree/main/app">
                           https://github.com/alexwlad3885/lesson_module_17/tree/main/app</a>
 </div>
+
+<div>
+      <h4><b>9. Создание проекта и приложений Django</b></h4>
+          <h5>
+              <ul>
+                  <li>создание проекта и приложений Django.</li>
+                  <li>создание папки для шаблонов и HTML шаблоны.</li>
+                  <li>создание представления в представлениях (views) приложения и маршрутов к ним.</li>
+                  <li>написание сайта с главной и вторичными страницами.</li>
+                  <li>освоение синтаксиса и инструментов DTL.</li>
+               </ul>
+          </h5>
+      <a class="resume-link" href="https://github.com/alexwlad3885/lesson_module_18/tree/main/UrbanDjango">
+                          https://github.com/alexwlad3885/lesson_module_18/tree/main/UrbanDjango</a>
+</div>

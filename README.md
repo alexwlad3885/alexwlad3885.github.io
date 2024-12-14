@@ -154,3 +154,20 @@
       <a class="resume-link" href="https://github.com/alexwlad3885/lesson_module_18/tree/main/UrbanDjango">
                           https://github.com/alexwlad3885/lesson_module_18/tree/main/UrbanDjango</a>
 </div>
+
+<div>
+      <h4><b>10. Базы данных в Django</b></h4>
+          <h5>
+              <ul>
+                  <li>создание проекта и приложений Django.</li>
+                  <li>создание в приложении моделей, миграций этих моделей в базу данных.</li>
+                  <li>выполнение миграций используя makemigrations и migrate.</li>
+                  <li>создание QuerySet запросов.</li>
+                  <li>создание сайта администрирования.</li>
+                  <li>создание вкладки с пагинацией в главном меню.</li>
+                  <li>создание таблиц через конструктор PGadmin.</li>
+               </ul>
+          </h5>
+      <a class="resume-link" href="https://github.com/alexwlad3885/lesson_module_19/tree/main/djangoProject3">
+                          https://github.com/alexwlad3885/lesson_module_19/tree/main/djangoProject3</a>
+</div>

@@ -36,6 +36,7 @@
          </h5> 
     <a class="resume-link" href="https://github.com/alexwlad3885/lesson_module_3/blob/main/lesson_3_4.py">
                            https://github.com/alexwlad3885/lesson_module_3/blob/main/lesson_3_4.py</a>
+    <hr>
 </div>
 <div>
       <h4><b>2. Решение задачи повышенной сложности по подсчету суммы всех чисел и длин всех строк
@@ -107,3 +108,19 @@
                           https://github.com/alexwlad3885/lesson_module_14/blob/main/module_14_5.py</a>
 </div>
 
+<div>
+      <h4><b>7. Создание веб-страницы для взаимодействия с пользователями</b></h4>
+          <h5>
+              <ul>
+                  <li>работа с fastapi, pydantic.</li>
+                  <li>создание приложения(объекта) FastAPI.</li>
+                  <li>создание  маршрутов к страницам при мощи GET запросов.</li>
+                  <li>написание валидации для маршрутов при помощи классов Path и Annotated.</li>
+                  <li>реализация CRUD запросов.</li>
+                  <li>создание класса(модели), наследованной от BaseModel.</li>
+                  <li>создание шаблонов Jinja2.</li>
+               </ul>
+          </h5>
+      <a class="resume-link" href="https://github.com/alexwlad3885/lesson_module_16/blob/main/module_16_5.py">
+                          https://github.com/alexwlad3885/lesson_module_16/blob/main/module_16_5.py</a>
+</div>

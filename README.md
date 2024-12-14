@@ -34,7 +34,7 @@
                 <li>создание исполняемого файла</li>           
             </ul>
          </h5> 
-    <a href="pr_1">https://github.com/alexwlad3885/lesson_module_3/blob/main/lesson_3_4.py style="font-family:Monotype Corsiva;color:green;font-size:25px"</a>
+    <a href="https://github.com/alexwlad3885/lesson_module_3/blob/main/lesson_3_4.py" style="font-family:Monotype Corsiva;color:green;font-size:25px"></a>
         
 </div>
 <div>

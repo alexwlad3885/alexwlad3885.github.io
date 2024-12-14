@@ -1,7 +1,7 @@
 <img class="round" src="assets/img/minkovich_a.jpg" width="150" height="150" alt="image" align="left">
 <br>
-<h1 align="left">Привет, меня зовут Александр<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="40"/>
-    <h3 align="left">
+<h1 align="left">Привет, меня зовут Александр<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="40"/></h1>
+    <h3 align="centr">
         <ul><b>
             <li>Минькович Александр</li>    
             <li class="mb-2"><i class="fas fa-phone-square fa-fw fa-lg me-2 "></i><a class="resume-link" href="tel:#">+7(978)807-96-10</a></li>
@@ -10,7 +10,7 @@
         </b>
         </ul>
     </h3>           
-</h1>
+
 <hr>
 <h2 align="left">Я Python-разработчик и имею следующий опыт работы:</h2>
 <ul><b>

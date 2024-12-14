@@ -1,6 +1,6 @@
+<h1 align="left">Привет, меня зовут Александр<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="40"/></h1>
 <img class="round" src="assets/img/minkovich_a.jpg" width="150" height="150" alt="image" align="left">
 <br>
-<h1 align="left">Привет, меня зовут Александр<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="40"/></h1>
     <h3 align="centr">
         <ul><b>
             <li>Минькович Александр</li>    

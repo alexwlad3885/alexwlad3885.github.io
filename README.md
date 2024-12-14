@@ -34,7 +34,8 @@
                 <li>создание исполняемого файла</li>           
             </ul>
          </h5> 
-    <a href="https://github.com/alexwlad3885/lesson_module_3/blob/main/lesson_3_4.py" style="color:green;font-size:5px">https://github.com/alexwlad3885/lesson_module_3/blob/main/lesson_3_4.py</a>
+    <a class="resume-link" href="https://github.com/alexwlad3885/lesson_module_3/blob/main/lesson_3_4.py"
+                           >https://github.com/alexwlad3885/lesson_module_3/blob/main/lesson_3_4.py</a>
         
 </div>
 <div>

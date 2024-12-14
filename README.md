@@ -1,7 +1,8 @@
 <img src="assets/img/minkovich_a.jpg" alt="image" width="150" height="150" align="left">
 <h1 align="left">Привет, меня зовут Александр<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 <br>
-<br>  
+<br>
+<br>
 </h1>
 
 <h2 align="left">Я Python-разработчик и имею следующий опыт работы:</h2>

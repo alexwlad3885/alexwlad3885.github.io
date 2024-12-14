@@ -1,3 +1,6 @@
+<link id="theme-style" rel="stylesheet" href="assets/css/style.css">
+<link id="additional-style" rel="stylesheet" href="assets/css/resume.css">
+
 <h1 align="left">Привет, меня зовут Александр<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <img class="resume-profile-image mb-3 mb-md-0 me-md-5  ms-md-0 rounded mx-auto rounded-circle" src="assets/img/minkovich_a.jpg" alt="image">
 <h2 align="left">Я Python-разработчик и имею следующий опыт работы:</h2>

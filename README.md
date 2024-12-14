@@ -73,3 +73,17 @@
       <a class="resume-link" href="https://github.com/alexwlad3885/lesson_module_6/blob/main/module_6_dop.py">
                           https://github.com/alexwlad3885/lesson_module_6/blob/main/module_6_dop.py</a>
 </div>
+
+<div>
+      <h4><b>5. Создание пользовательских исключений</b></h4>
+          <h5>
+              <ul>
+                  <li>практика работы с классами, создание класса с атрибутами и методами.</li>
+                  <li>создание класса исключений</li>
+                  <li>получение сообщения при выбрасывании исключения</li>
+               </ul>
+          </h5>
+      <a class="resume-link" href="https://github.com/alexwlad3885/lesson_module_8/blob/main/module_8_3.py">
+                          https://github.com/alexwlad3885/lesson_module_8/blob/main/module_8_3.py</a>
+</div>
+

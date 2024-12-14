@@ -1,4 +1,4 @@
-<img src="assets/img/minkovich_a.jpg" alt="image" width="150" height="150" align="left" style="border-radius: 50%">
+<img src="assets/img/minkovich_a.jpg" style="border-radius: 50% width=150 height=150" alt="image" align="left" >
 <br>
 <h1 align="left">Привет, меня зовут Александр<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="40"/>
 <br>

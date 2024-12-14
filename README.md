@@ -34,26 +34,28 @@
                 <li>создание исполняемого файла</li>           
             </ul>
          </h5> 
-    <a class="resume-link" href="https://github.com/alexwlad3885/lesson_module_3/blob/main/lesson_3_4.py"
-                           >https://github.com/alexwlad3885/lesson_module_3/blob/main/lesson_3_4.py</a>
-        
+    <a class="resume-link" href="https://github.com/alexwlad3885/lesson_module_3/blob/main/lesson_3_4.py">
+                           https://github.com/alexwlad3885/lesson_module_3/blob/main/lesson_3_4.py</a>
 </div>
 <div>
       <h4><b>2. Решение задачи повышенной сложности по подсчету суммы всех чисел и длин всех строк
       (не важно, являются они ключами или значениям или ещё чем-то) из абстрактного набора данных
       практика работы с функциями</b></h4>
-          <a href="pr_2">https://github.com/alexwlad3885/lesson_module_3/blob/main/module3hard.py</a>
+      <a class="resume-link" href="https://github.com/alexwlad3885/lesson_module_3/blob/main/module3hard.py">
+                          https://github.com/alexwlad3885/lesson_module_3/blob/main/module3hard.py</a>
 </div>
 <div>
       <h4><b>3. Свой YouTube</b></h4>
-          <ul><h5>
-              <li>работа с time.</li>
-              <li>реализация классов для взаимодействия с платформой.</li>
-              <li>регистрация пользователя, поиск пользователя, авторизация, проверка пароля в хэшированном виде.</li>
-              <li>добавление видео, поиск видео, воспроизведение.</li>
-              <li>использование dunder(магических) методов __str__, __eq__, __hash__.</li>
-              </h5>
-          </ul>
-          <a href="pr_3">https://github.com/alexwlad3885/lesson_module_5/blob/main/module_5_hard.py</a>
+          <h5>
+              <ul>
+                  <li>работа с time.</li>
+                  <li>реализация классов для взаимодействия с платформой.</li>
+                  <li>регистрация пользователя, поиск пользователя, авторизация, проверка пароля в хэшированном виде.</li>
+                  <li>добавление видео, поиск видео, воспроизведение.</li>
+                  <li>использование dunder(магических) методов __str__, __eq__, __hash__.</li>
+               </ul>
+          </h5>
+      <a class="resume-link" href="github.com/alexwlad3885/lesson_module_5/blob/main/module_5_hard.py">
+                          https://github.com/alexwlad3885/lesson_module_5/blob/main/module_5_hard.py</a>
 </div>
 

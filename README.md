@@ -1,14 +1,13 @@
 <h1 align="left">Привет, меня зовут Александр<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="40"/></h1>
 <img class="round" src="assets/img/minkovich_a.jpg" width="150" height="150" alt="image" align="left">
 <br>
-    <h3 align="centr">
-        <ul><b>
-            <li>Минькович Александр</li>    
-            <li class="mb-2"><i class="fas fa-phone-square fa-fw fa-lg me-2 "></i><a class="resume-link" href="tel:#">+7(978)807-96-10</a></li>
-            <li class="mb-2"><i class="fas fa-envelope-square fa-fw fa-lg me-2"></i><a class="resume-link" href="mailto:#">alexwlad3885@yandex.ru</a></li>                           
-            <li class="mb-0"><i class="fas fa-map-marker-alt fa-fw fa-lg me-2"></i>Симферополь</li>
-        </b>
-        </ul>
+    <h3 align="recht">
+        <dl>
+              <dt>Минькович Александр</dt>
+                    <dd>class="mb-2"><i class="fas fa-phone-square fa-fw fa-lg me-2 "></i><a class="resume-link" href="tel:#">+7(978)807-96-10</a></dd>
+                    <dd>class="mb-2"><i class="fas fa-envelope-square fa-fw fa-lg me-2"></i><a class="resume-link" href="mailto:#">alexwlad3885@yandex.ru</a></dd>
+                    <dd>Симферополь</dd>   
+        </dl>    
     </h3>           
 
 <hr>

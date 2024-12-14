@@ -124,3 +124,18 @@
       <a class="resume-link" href="https://github.com/alexwlad3885/lesson_module_16/blob/main/module_16_5.py">
                           https://github.com/alexwlad3885/lesson_module_16/blob/main/module_16_5.py</a>
 </div>
+
+<div>
+      <h4><b>8. Написание API для менеджмента задач пользователей</b></h4>
+          <h5>
+              <ul>
+                  <li>создание структурированного проекта с использованием FastAPI.</li>
+                  <li>создание маршрутов и написание Pydantic модели.</li>
+                  <li>создание модели баз данных, используя SQLAlchemy.</li>
+                  <li>генерация миграции при помощи alembic revision.</li>
+                  <li>описание логики функций в task.py используя ранее написанные маршруты FastAPI.</li>
+               </ul>
+          </h5>
+      <a class="resume-link" href="https://github.com/alexwlad3885/lesson_module_17/tree/main/app">
+                          https://github.com/alexwlad3885/lesson_module_17/tree/main/app</a>
+</div>

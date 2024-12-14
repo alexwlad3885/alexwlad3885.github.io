@@ -8,9 +8,9 @@
 <li>с библиотеками визуализации Matplotlib, Seaborn и Plotly</li>
 <li>по разработке ботов для Telegram с использованием Python и асинхронного программирования</li>	
 <li>с системой контроля версий Git</li>
-<hr>  
-  </b>
+</b>
 </ul>
+<hr> 
 <h2 align="left">О себе</h2>
 <p>
   
@@ -38,8 +38,9 @@
          </h5> 
     <a class="resume-link" href="https://github.com/alexwlad3885/lesson_module_3/blob/main/lesson_3_4.py">
                            https://github.com/alexwlad3885/lesson_module_3/blob/main/lesson_3_4.py</a>
-    <hr>
+    
 </div>
+<hr>
 <div>
       <h4><b>2. Решение задачи повышенной сложности по подсчету суммы всех чисел и длин всех строк
       (не важно, являются они ключами или значениям или ещё чем-то) из абстрактного набора данных
@@ -47,6 +48,7 @@
       <a class="resume-link" href="https://github.com/alexwlad3885/lesson_module_3/blob/main/module3hard.py">
                           https://github.com/alexwlad3885/lesson_module_3/blob/main/module3hard.py</a>
 </div>
+<hr>
 <div>
       <h4><b>3. Свой YouTube</b></h4>
           <h5>
@@ -61,7 +63,7 @@
       <a class="resume-link" href="https://github.com/alexwlad3885/lesson_module_5/blob/main/module_5_hard.py">
                           https://github.com/alexwlad3885/lesson_module_5/blob/main/module_5_hard.py</a>
 </div>
-
+<hr>
 <div>
       <h4><b>4. Наследование классов "Они все так похожи"</b></h4>
           <h5>
@@ -76,7 +78,7 @@
       <a class="resume-link" href="https://github.com/alexwlad3885/lesson_module_6/blob/main/module_6_dop.py">
                           https://github.com/alexwlad3885/lesson_module_6/blob/main/module_6_dop.py</a>
 </div>
-
+<hr>
 <div>
       <h4><b>5. Создание пользовательских исключений</b></h4>
           <h5>
@@ -89,7 +91,7 @@
       <a class="resume-link" href="https://github.com/alexwlad3885/lesson_module_8/blob/main/module_8_3.py">
                           https://github.com/alexwlad3885/lesson_module_8/blob/main/module_8_3.py</a>
 </div>
-
+<hr>
 <div>
       <h4><b>6. Создание телеграмм-бота</b></h4>
           <h5>
@@ -109,7 +111,7 @@
       <a class="resume-link" href="https://github.com/alexwlad3885/lesson_module_14/blob/main/module_14_5.py">
                           https://github.com/alexwlad3885/lesson_module_14/blob/main/module_14_5.py</a>
 </div>
-
+<hr>
 <div>
       <h4><b>7. Создание веб-страницы для взаимодействия с пользователями</b></h4>
           <h5>
@@ -126,7 +128,7 @@
       <a class="resume-link" href="https://github.com/alexwlad3885/lesson_module_16/blob/main/module_16_5.py">
                           https://github.com/alexwlad3885/lesson_module_16/blob/main/module_16_5.py</a>
 </div>
-
+<hr>
 <div>
       <h4><b>8. Написание API для менеджмента задач пользователей</b></h4>
           <h5>
@@ -141,7 +143,7 @@
       <a class="resume-link" href="https://github.com/alexwlad3885/lesson_module_17/tree/main/app">
                           https://github.com/alexwlad3885/lesson_module_17/tree/main/app</a>
 </div>
-
+<hr>
 <div>
       <h4><b>9. Создание проекта и приложений Django</b></h4>
           <h5>
@@ -156,7 +158,7 @@
       <a class="resume-link" href="https://github.com/alexwlad3885/lesson_module_18/tree/main/UrbanDjango">
                           https://github.com/alexwlad3885/lesson_module_18/tree/main/UrbanDjango</a>
 </div>
-
+<hr>
 <div>
       <h4><b>10. Базы данных в Django</b></h4>
           <h5>
@@ -173,7 +175,7 @@
       <a class="resume-link" href="https://github.com/alexwlad3885/lesson_module_19/tree/main/djangoProject3">
                           https://github.com/alexwlad3885/lesson_module_19/tree/main/djangoProject3</a>
 </div>
-
+<hr>
 <div>
       <h4><b>11. Дипломная работа: "СРАВНЕНИЕ РАЗЛИЧНЫХ БИБЛИОТЕК ДЛЯ ВИЗУАЛИЗАЦИИ ДАННЫХ: MATPLOTLIB, SEABORN И PLOTLY"</b></h4>
           <h5>
@@ -186,7 +188,7 @@
       <a class="resume-link" href="https://github.com/alexwlad3885/lesson_graduation_project">
                           https://github.com/alexwlad3885/lesson_graduation_project</a>
 </div>
-
+<hr>
 <div>
       <h4><b>12. Анализатор прайс-листов</b></h4>
           <h5>

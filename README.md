@@ -1,15 +1,14 @@
 <h1 align="left">Привет, меня зовут Александр<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="40"/></h1>
 <img class="round" src="assets/img/minkovich_a.jpg" width="150" height="150" alt="image" align="left">
-<br>
-    <h3 align="recht">
+    <h3 align="left">
         <dl>
               <dt>Минькович Александр</dt>
-                    <dd><a class="resume-link" href="tel:#">+7(978)807-96-10</a></dd>
-                    <dd><a class="resume-link" href="mailto:#">alexwlad3885@yandex.ru</a></dd>
+                    <dd><a href="tel:#">+7(978)807-96-10</a></dd>
+                    <dd><a href="mailto:#">alexwlad3885@yandex.ru</a></dd>
                     <dd>Симферополь</dd>   
         </dl>    
     </h3>           
-
+<br>
 <hr>
 <h2 align="left">Я Python-разработчик и имею следующий опыт работы:</h2>
 <ul><b>

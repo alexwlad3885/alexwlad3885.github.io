@@ -171,3 +171,28 @@
       <a class="resume-link" href="https://github.com/alexwlad3885/lesson_module_19/tree/main/djangoProject3">
                           https://github.com/alexwlad3885/lesson_module_19/tree/main/djangoProject3</a>
 </div>
+
+<div>
+      <h4><b>11. Дипломная работа: "СРАВНЕНИЕ РАЗЛИЧНЫХ БИБЛИОТЕК ДЛЯ ВИЗУАЛИЗАЦИИ ДАННЫХ: MATPLOTLIB, SEABORN И PLOTLY"</b></h4>
+          <h5>
+              <ul>
+                  <li>создание набора визуализаций с использованием Matplotlib, Seaborn и Plotly.</li>
+                  <li>анализ работы библиотек с одно, двух и трехмерными данными.</li>
+                  <li>выработка рекомендаций по использованию библиотек.</li>
+               </ul>
+          </h5>
+      <a class="resume-link" href="https://github.com/alexwlad3885/lesson_graduation_project">
+                          https://github.com/alexwlad3885/lesson_graduation_project</a>
+</div>
+
+<div>
+      <h4><b>12. Анализатор прайс-листов</b></h4>
+          <h5>
+              <ul>
+                  <li>разработка анализатора прайс-листов.</li>
+                  <li>использование библиотеки pandas для работы с csv файлами.</li>
+               </ul>
+          </h5>
+      <a class="resume-link" href="https://github.com/alexwlad3885/lesson_practical_task/blob/main/project.py">
+                          https://github.com/alexwlad3885/lesson_practical_task/blob/main/project.py</a>
+</div>

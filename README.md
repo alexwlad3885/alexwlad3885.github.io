@@ -1,4 +1,4 @@
-<img src="assets/img/minkovich_a.jpg" alt="image" width="150" height="150"><h1 align="left">Привет, меня зовут Александр<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<img src="assets/img/minkovich_a.jpg" alt="image" width="150" height="150" <h1 align="left">Привет, меня зовут Александр<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1></img>
 
 <h2 align="left">Я Python-разработчик и имею следующий опыт работы:</h2>
 <ul><b>

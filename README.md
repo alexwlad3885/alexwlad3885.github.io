@@ -1,6 +1,6 @@
 <img src="assets/img/minkovich_a.jpg" alt="image" width="150" height="150" align="left">
 <br>
-<h1 align="left">Привет, меня зовут Александр<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
+<h1 align="left">Привет, меня зовут Александр<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="40"/>
 
 <br>
 <br>

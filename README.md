@@ -25,15 +25,16 @@
 <h2 align="left">Мои работы</h2>
 <div>
     <h4><b>1. Калькулятор</b></h4>
-        <ul><h5>
-            <li>работа с библиотекой tkinter</li>
-            <li>создание графического интерфейса</li>
-            <li>создание виджетов Button, Entry, Label</li>
-            <li>создание связи виджета и функции</li>
-            <li>создание исполняемого файла</li>
-            </h5>
-        </ul>
-        <a href="pr_1">https://github.com/alexwlad3885/lesson_module_3/blob/main/lesson_3_4.py</a>
+        <h5>
+            <ul>
+                <li>работа с библиотекой tkinter</li>
+                <li>создание графического интерфейса</li>
+                <li>создание виджетов Button, Entry, Label</li>
+                <li>создание связи виджета и функции</li>
+                <li>создание исполняемого файла</li>           
+            </ul>
+            <a href="pr_1">https://github.com/alexwlad3885/lesson_module_3/blob/main/lesson_3_4.py</a>
+        </h5>
 </div>
 <div>
       <h4><b>2. Решение задачи повышенной сложности по подсчету суммы всех чисел и длин всех строк

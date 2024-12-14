@@ -55,7 +55,21 @@
                   <li>использование dunder(магических) методов __str__, __eq__, __hash__.</li>
                </ul>
           </h5>
-      <a class="resume-link" href="github.com/alexwlad3885/lesson_module_5/blob/main/module_5_hard.py">
+      <a class="resume-link" href="https://github.com/alexwlad3885/lesson_module_5/blob/main/module_5_hard.py">
                           https://github.com/alexwlad3885/lesson_module_5/blob/main/module_5_hard.py</a>
 </div>
 
+<div>
+      <h4><b>4. Наследование классов "Они все так похожи"</b></h4>
+          <h5>
+              <ul>
+                  <li>опыт работы с базовыми классами, методами и наследованием в Python.</li>
+                  <li>создание родительского класса Figure с методами изменения размера, цвета.</li>
+                  <li>создание интерфейсов взаимодействия (методов) - геттеров и сеттеров.</li>
+                  <li>создание наследуемых классов Circle, Triangle и Cube наследующих методы родителя.</li>
+                  <li>работа с math, расчет площади и объема фигур.</li>
+               </ul>
+          </h5>
+      <a class="resume-link" href="https://github.com/alexwlad3885/lesson_module_6/blob/main/module_6_dop.py">
+                          https://github.com/alexwlad3885/lesson_module_6/blob/main/module_6_dop.py</a>
+</div>

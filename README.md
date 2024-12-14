@@ -3,9 +3,8 @@
 <h1 align="left">Привет, меня зовут Александр<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="40"/>
 <br>
 <br>
-<hr>
 </h1>
-
+<hr>
 <h2 align="left">Я Python-разработчик и имею следующий опыт работы:</h2>
 <ul><b>
 <li>с БД: SQLite, PostgreSQL и MySQL</li>

@@ -4,8 +4,8 @@
     <h3 align="recht">
         <dl>
               <dt>Минькович Александр</dt>
-                    <dd>class="mb-2"><i class="fas fa-phone-square fa-fw fa-lg me-2 "></i><a class="resume-link" href="tel:#">+7(978)807-96-10</a></dd>
-                    <dd>class="mb-2"><i class="fas fa-envelope-square fa-fw fa-lg me-2"></i><a class="resume-link" href="mailto:#">alexwlad3885@yandex.ru</a></dd>
+                    <dd><a class="resume-link" href="tel:#">+7(978)807-96-10</a></dd>
+                    <dd><a class="resume-link" href="mailto:#">alexwlad3885@yandex.ru</a></dd>
                     <dd>Симферополь</dd>   
         </dl>    
     </h3>           

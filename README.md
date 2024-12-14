@@ -24,7 +24,7 @@
 </p>
 <h2 align="left">Мои работы</h2>
 <div>
-    <h3><b>1. Калькулятор</b></h3>
+    <h4><b>1. Калькулятор</b></h4>
         <ul><h5>
             <li>работа с библиотекой tkinter</li>
             <li>создание графического интерфейса</li>
@@ -36,13 +36,13 @@
         <a href="pr_1">https://github.com/alexwlad3885/lesson_module_3/blob/main/lesson_3_4.py</a>
 </div>
 <div>
-      <h3><b>2. Решение задачи повышенной сложности по подсчету суммы всех чисел и длин всех строк
+      <h4><b>2. Решение задачи повышенной сложности по подсчету суммы всех чисел и длин всех строк
       (не важно, являются они ключами или значениям или ещё чем-то) из абстрактного набора данных
-      практика работы с функциями</b></h3>
+      практика работы с функциями</b></h4>
           <a href="pr_2">https://github.com/alexwlad3885/lesson_module_3/blob/main/module3hard.py</a>
 </div>
 <div>
-      <h3><b>3. Свой YouTube</b></h3>
+      <h4><b>3. Свой YouTube</b></h4>
           <ul><h5>
               <li>работа с time.</li>
               <li>реализация классов для взаимодействия с платформой.</li>
@@ -51,6 +51,6 @@
               <li>использование dunder(магических) методов __str__, __eq__, __hash__.</li>
               </h5>
           </ul>
-          <a href="pr_1">https://github.com/alexwlad3885/lesson_module_5/blob/main/module_5_hard.py</a>
+          <a href="pr_3">https://github.com/alexwlad3885/lesson_module_5/blob/main/module_5_hard.py</a>
 </div>
 

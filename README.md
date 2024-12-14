@@ -33,8 +33,9 @@
                 <li>создание связи виджета и функции</li>
                 <li>создание исполняемого файла</li>           
             </ul>
-            <a href="pr_1">https://github.com/alexwlad3885/lesson_module_3/blob/main/lesson_3_4.py</a>
-        </h5>
+         </h5> 
+    <a href="pr_1">https://github.com/alexwlad3885/lesson_module_3/blob/main/lesson_3_4.py style="font-family:Monotype Corsiva;color:green;font-size:25px"</a>
+        
 </div>
 <div>
       <h4><b>2. Решение задачи повышенной сложности по подсчету суммы всех чисел и длин всех строк

@@ -87,3 +87,23 @@
                           https://github.com/alexwlad3885/lesson_module_8/blob/main/module_8_3.py</a>
 </div>
 
+<div>
+      <h4><b>6. Создание телеграмм-бота</b></h4>
+          <h5>
+              <ul>
+                  <li>написание простейшего телеграм-бота, используя асинхронные функции и базу данных SQLite.</li>
+                  <li>работа с aiogram, asyncio.</li>
+                  <li>написание хендлеров обработки сообщений и функций к ним.</li>
+                  <li>работа с состояниями в телеграм-боте, с машиной состояний.</li>
+                  <li>создание клавиатуры и кнопки на них в Telegram-bot.</li>
+                  <li>создание Inline клавиатуры и кнопки на них в Telegram-bot.</li>
+                  <li>создание меню</li>
+                  <li>установление взаимодействия Telegram-бота с базой данных SQLite с помощью CRUD функций.</li>
+                  <li>создание таблиц при помощи SQL запроса.</li>
+                  <li>регистрация пользователей, подсчет их баланса и занесение данных в БД.</li>
+               </ul>
+          </h5>
+      <a class="resume-link" href="https://github.com/alexwlad3885/lesson_module_14/blob/main/module_14_5.py">
+                          https://github.com/alexwlad3885/lesson_module_14/blob/main/module_14_5.py</a>
+</div>
+
